@@ -16,4 +16,17 @@
         <tag>Java</tag>
       </tags>
   </entry>
+  <entry>
+    <title>H5游戏合集</title>
+    <url>/2021/08/07/%E6%89%AB%E9%9B%B7/</url>
+    <content><![CDATA[<details>
+<summary>扫雷游戏</summary>
+
+<iframe height=850 width=90% src="/games/MineSweeping/"  
+ frameborder=0  allowfullscreen> </iframe>
+</details>]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+  </entry>
 </search>
